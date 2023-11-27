@@ -1,0 +1,15 @@
+{
+  "name": "testenvapp",
+  "version": "1.0.0",
+  "description": "This app is created to show the best possible,effective and secure way to store the Environment Variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chinmay Kubal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
